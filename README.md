@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Equinox1704
+- I'm a MERN Stack Developer and currently learning React, React Native and NEXT JS.
 - 👀 I’m interested in Full Stack Developing.
-- 🌱 I’m currently learning C/C++ .
-- 💞️ I’m looking to collaborate on not right now cause i have just entered the coding world but i do know HTML and CSS.
+- 🌱 I’m currently learning C++ .
+- 💞️ I’m looking to collaborate on MERN Projects.
 - 📫 How to reach me mnegi1704@gmail.com
 
 <!---
